@@ -1,2 +1,2 @@
 Segu Parameswara Reddy 19113120 CSE-7B
-# SEGUPARAMESHREDDDY
+# CSC4451-Deep-Learning-Practical-Component
